@@ -143,4 +143,4 @@ async function showData() {
   console.log("Keyingi bosqich");
 }
 
-showData();
+showData();kkkk
